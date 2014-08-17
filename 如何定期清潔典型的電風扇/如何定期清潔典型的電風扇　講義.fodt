@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:initial-creator>Ｖ字龍(Vdragon)</meta:initial-creator><meta:creation-date>2014-08-17T06:37:20.862208088</meta:creation-date><meta:generator>LibreOffice/4.3.1.1$Linux_x86 LibreOffice_project/c4b15cd4d00dec6b266fa830b4ba73e31ae6ce73</meta:generator><meta:editing-cycles>3</meta:editing-cycles><meta:editing-duration>PT33M18S</meta:editing-duration><dc:description>本作品由「如何文與標準操作程序(https://github.com/Vdragon/How_tos_and_SOPs)」之貢獻者所作，並以「創用 CC BY-SA 3.0 或之後之任一更新版本智慧財產授權條款」釋出，敬請留意。</dc:description><meta:keyword>電風扇</meta:keyword><meta:keyword>清潔</meta:keyword><dc:subject>如何定期清潔典型的電風扇</dc:subject><dc:title>如何定期清潔典型的電風扇　講義</dc:title><dc:date>2014-08-17T08:47:05.654613179</dc:date><dc:creator>Ｖ字龍(Vdragon)</dc:creator><meta:document-statistic meta:table-count="0" meta:image-count="1" meta:object-count="0" meta:page-count="1" meta:paragraph-count="4" meta:word-count="104" meta:character-count="190" meta:non-whitespace-character-count="180"/></office:meta>
+ <office:meta><meta:initial-creator>Ｖ字龍(Vdragon)</meta:initial-creator><meta:creation-date>2014-08-17T06:37:20.862208088</meta:creation-date><meta:generator>LibreOffice/4.3.1.1$Linux_x86 LibreOffice_project/c4b15cd4d00dec6b266fa830b4ba73e31ae6ce73</meta:generator><meta:editing-cycles>5</meta:editing-cycles><meta:editing-duration>PT45M4S</meta:editing-duration><dc:description>本作品由「如何文與標準操作程序(https://github.com/Vdragon/How_tos_and_SOPs)」之貢獻者所作，並以「創用 CC BY-SA 3.0 或之後之任一更新版本智慧財產授權條款」釋出，敬請留意。</dc:description><meta:keyword>電風扇</meta:keyword><meta:keyword>清潔</meta:keyword><dc:subject>如何定期清潔典型的電風扇</dc:subject><dc:title>如何定期清潔典型的電風扇　講義</dc:title><dc:date>2014-08-17T08:58:52.443245998</dc:date><dc:creator>Ｖ字龍(Vdragon)</dc:creator><meta:document-statistic meta:table-count="0" meta:image-count="1" meta:object-count="0" meta:page-count="3" meta:paragraph-count="12" meta:word-count="195" meta:character-count="284" meta:non-whitespace-character-count="271"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">14880</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">59745</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">34796</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">15820</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">16824</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">15431</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">25294</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">21809</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">2501</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">68501</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">14880</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">34794</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">30699</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">59745</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">16822</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">75173</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -201,15 +201,27 @@
     </style:tab-stops>
    </style:paragraph-properties>
   </style:style>
+  <style:style style:name="Contents_20_Heading" style:display-name="Contents Heading" style:family="paragraph" style:parent-style-name="Heading" style:class="index">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="16pt" fo:font-weight="bold" style:font-size-asian="16pt" style:font-weight-asian="bold" style:font-size-complex="16pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Contents_20_1" style:display-name="Contents 1" style:family="paragraph" style:parent-style-name="Index" style:class="index">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false">
+    <style:tab-stops>
+     <style:tab-stop style:position="17cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
   <style:style style:name="Internet_20_link" style:display-name="Internet link" style:family="text">
    <style:text-properties fo:color="#000080" fo:language="zxx" fo:country="none" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
   </style:style>
   <style:style style:name="Numbering_20_Symbols" style:display-name="Numbering Symbols" style:family="text"/>
+  <style:style style:name="Index_20_Link" style:display-name="Index Link" style:family="text"/>
   <style:style style:name="Graphics" style:family="graphic">
    <style:graphic-properties text:anchor-type="paragraph" svg:x="0cm" svg:y="0cm" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph"/>
   </style:style>
   <text:outline-style style:name="Outline">
-   <text:outline-level-style text:level="1" style:num-format="1">
+   <text:outline-level-style text:level="1" style:num-format="">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
      <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.762cm" fo:text-indent="-0.762cm" fo:margin-left="0.762cm"/>
     </style:list-level-properties>
@@ -281,10 +293,21 @@
   </style:style>
   <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:paragraph-rsid="0014384f"/>
   </style:style>
-  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Footer">
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false" fo:break-before="page"/>
+  </style:style>
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Footer">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
    <style:text-properties officeooo:paragraph-rsid="0014384f"/>
+  </style:style>
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Contents_20_1">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="17cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties officeooo:rsid="0011864b"/>
@@ -294,6 +317,17 @@
   </style:style>
   <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Graphics">
    <style:graphic-properties style:vertical-pos="top" style:vertical-rel="baseline" style:horizontal-pos="center" style:horizontal-rel="paragraph" style:mirror="none" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
+  </style:style>
+  <style:style style:name="Sect1" style:family="section">
+   <style:section-properties fo:background-color="transparent" style:editable="false">
+    <style:columns fo:column-count="1" fo:column-gap="0cm"/>
+    <style:background-image/>
+   </style:section-properties>
+  </style:style>
+  <style:style style:name="Sect2" style:family="section">
+   <style:section-properties style:editable="false">
+    <style:columns fo:column-count="1" fo:column-gap="0cm"/>
+   </style:section-properties>
   </style:style>
   <text:list-style style:name="L1">
    <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
@@ -367,13 +401,13 @@
  <office:master-styles>
   <style:master-page style:name="Standard" style:page-layout-name="pm1">
    <style:footer>
-    <text:p text:style-name="P1">第 <text:page-number text:select-page="current">1</text:page-number> 頁<text:span text:style-name="T1">／共 </text:span><text:span text:style-name="T1"><text:page-count>1</text:page-count></text:span><text:span text:style-name="T1"> 頁<text:line-break/>本作品由「如何文與標準操作程序(</text:span><text:a xlink:type="simple" xlink:href="https://github.com/Vdragon/How_tos_and_SOPs" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T1">https://github.com/Vdragon/How_tos_and_SOPs</text:span></text:a><text:span text:style-name="T1">)」之貢獻者所作，並以「創用 CC BY-SA 3.0 或之後之任一更新版本智慧財產授權條款」釋出，敬請留意。</text:span></text:p>
+    <text:p text:style-name="P1">第 <text:page-number text:select-page="current">3</text:page-number> 頁<text:span text:style-name="T1">／共 </text:span><text:span text:style-name="T1"><text:page-count>3</text:page-count></text:span><text:span text:style-name="T1"> 頁<text:line-break/>本作品由「如何文與標準操作程序(</text:span><text:a xlink:type="simple" xlink:href="https://github.com/Vdragon/How_tos_and_SOPs" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T1">https://github.com/Vdragon/How_tos_and_SOPs</text:span></text:a><text:span text:style-name="T1">)」之貢獻者所作，並以「創用 CC BY-SA 3.0 或之後之任一更新版本智慧財產授權條款」釋出，敬請留意。</text:span></text:p>
    </style:footer>
   </style:master-page>
   <style:master-page style:name="HTML" style:page-layout-name="pm2"/>
  </office:master-styles>
  <office:body>
-  <office:text>
+  <office:text text:use-soft-page-breaks="true">
    <text:sequence-decls>
     <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
@@ -20299,6 +20333,106 @@
      </draw:image>
     </draw:frame></text:p>
    <text:p text:style-name="P3">Ｖ字龍&lt;<text:a xlink:type="simple" xlink:href="mailto:Vdragon.Taiwan@gmail.com" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">Vdragon.Taiwan@gmail.com</text:a>&gt;與「如何文與標準操作程序」專案其他貢獻者</text:p>
+   <text:h text:style-name="P6" text:outline-level="1"><text:bookmark-start text:name="__RefHeading__143_656956002"/><text:bookmark-end text:name="__RefHeading__143_656956002"/></text:h>
+   <text:table-of-content text:style-name="Sect1" text:protected="true" text:name="內容目錄1">
+    <text:table-of-content-source text:outline-level="10">
+     <text:index-title-template text:style-name="Contents_20_Heading">內容目錄</text:index-title-template>
+     <text:table-of-content-entry-template text:outline-level="1" text:style-name="Contents_20_1">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+     <text:table-of-content-entry-template text:outline-level="2" text:style-name="Contents_20_2">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+     <text:table-of-content-entry-template text:outline-level="3" text:style-name="Contents_20_3">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+     <text:table-of-content-entry-template text:outline-level="4" text:style-name="Contents_20_4">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+     <text:table-of-content-entry-template text:outline-level="5" text:style-name="Contents_20_5">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+     <text:table-of-content-entry-template text:outline-level="6" text:style-name="Contents_20_6">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+     <text:table-of-content-entry-template text:outline-level="7" text:style-name="Contents_20_7">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+     <text:table-of-content-entry-template text:outline-level="8" text:style-name="Contents_20_8">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+     <text:table-of-content-entry-template text:outline-level="9" text:style-name="Contents_20_9">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+     <text:table-of-content-entry-template text:outline-level="10" text:style-name="Contents_20_10">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+    </text:table-of-content-source>
+    <text:index-body>
+     <text:index-title text:style-name="Sect2" text:name="內容目錄1_Head">
+      <text:p text:style-name="Contents_20_Heading">內容目錄</text:p>
+     </text:index-title>
+     <text:p text:style-name="P8"><text:a xlink:type="simple" xlink:href="#__RefHeading__145_656956002" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">拆除並清潔電風扇扇葉前保護鐵網<text:tab/>3</text:a></text:p>
+     <text:p text:style-name="P8"><text:a xlink:type="simple" xlink:href="#__RefHeading__147_656956002" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">拆卸扇葉前的螺帽<text:tab/>3</text:a></text:p>
+     <text:p text:style-name="P8"><text:a xlink:type="simple" xlink:href="#__RefHeading__149_656956002" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">拆下扇葉並清洗之<text:tab/>3</text:a></text:p>
+    </text:index-body>
+   </text:table-of-content>
+   <text:p text:style-name="P3"/>
+   <text:h text:style-name="P5" text:outline-level="1"><text:bookmark-start text:name="__RefHeading__145_656956002"/>拆除並清潔電風扇扇葉前保護鐵網<text:bookmark-end text:name="__RefHeading__145_656956002"/></text:h>
+   <text:p text:style-name="Text_20_body">由於鐵網易生銹故不用水沖洗而用刷子將灰塵刷落</text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="__RefHeading__147_656956002"/>拆卸扇葉前的螺帽<text:bookmark-end text:name="__RefHeading__147_656956002"/></text:h>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="__RefHeading__149_656956002"/>拆下扇葉並清洗之<text:bookmark-end text:name="__RefHeading__149_656956002"/></text:h>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1"/>
   </office:text>
  </office:body>
 </office:document>
