@@ -1,4 +1,5 @@
 # 如何定期清潔典型的電風扇
+#![「如何定期清潔典型的電風扇」主題圖片](圖片/清洗前外觀.jpg)
 
 ## 本目錄下的項目說明<br />Description of the items under this directory
 ### [圖片/](圖片/)
